@@ -6,6 +6,8 @@
 
 ## Description
 
+![screen shot of project](https://raw.githubusercontent.com/amychurchwell/beep-boop/master/img/screenshot.png)
+
 A web application that takes a number from a user and returns a range of numbers from 0 to the chosen number with a few exceptions.
 
 ## Specifications
